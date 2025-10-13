@@ -20,5 +20,12 @@ Cho i, j, k là các con số và lệnh dưới đây:
 (d) i = 5, j = 7, and k =3
 (e) i = 7, j = 3, and k = 5
 (f) i =7, j = 5, and k = 3
+                          bài làm 
+(a)	i = 5, j = 5, k = 7
+(b)	i = 3, j = 5, k = 5
+(c)	i = 7, j = 3, k = 7
+(d)	i = 5, j = 3, k = 3
+(e)	i = 5, j = 3, k = 5
+(f)	i = 7, j = 7, k = 3
            
 '''
